@@ -22,6 +22,17 @@ https://www.youtube.com/channel/uc7s2jpkdnsjybyn4cpy26ng ra1711003030521
 https://assessment.hackerearth.com/challenges/hiring/valuelabs-ml-hiring-2019/
 
 Languages and Tools:
-angular bootstrap css3 express git html5 javascript mongodb nodejs postman python react reactnative
+bootstrap 
+css3 
+express 
+git 
+html5 
+javascript 
+mongodb 
+nodejs 
+postman 
+python 
+react 
+reactnative
 
 
