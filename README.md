@@ -14,9 +14,14 @@ A persistent learner and MERN Stack developer with proficiency in pixel-perfect 
 ⚡ Fun fact I Enjoy Spending Time On My Desktop <3
 
 Connect with me:
-https://codepen.io/your-work https://twitter.com/ra1711003030521 https://www.linkedin.com/in/amit-yadav-a9271a1b8/ https://www.youtube.com/channel/uc7s2jpkdnsjybyn4cpy26nghttps://www.youtube.com/channel/uc7s2jpkdnsjybyn4cpy26ng ra1711003030521 https://assessment.hackerearth.com/challenges/hiring/valuelabs-ml-hiring-2019/
+https://codepen.io/your-work
+https://twitter.com/ra1711003030521 
+https://www.linkedin.com/in/amit-yadav-a9271a1b8/
+https://www.youtube.com/channel/uc7s2jpkdnsjybyn4cpy26ng
+https://www.youtube.com/channel/uc7s2jpkdnsjybyn4cpy26ng ra1711003030521
+https://assessment.hackerearth.com/challenges/hiring/valuelabs-ml-hiring-2019/
 
 Languages and Tools:
 angular bootstrap css3 express git html5 javascript mongodb nodejs postman python react reactnative
 
- amit9793
+
