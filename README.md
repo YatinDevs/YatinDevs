@@ -15,7 +15,7 @@ A persistent learner and MERN Stack developer with proficiency in pixel-perfect 
 
 Connect with me:
 
-https://www.linkedin.com/in/yatin-chaudhari-01a3ba1b0/ 
+ LinkedIn : https://www.linkedin.com/in/yatin-chaudhari-01a3ba1b0/ 
 
 https://twitter.com/Yatin727
 
