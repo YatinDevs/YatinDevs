@@ -1,5 +1,6 @@
 Hi 👋, I'm Yatin Chaudhari
 A persistent learner and MERN Stack developer with proficiency in pixel-perfect design and implementing end-to-end functionality.A Curious Full Stack Web Developer trained in MERN stack and DSA.Passionate about building quality user-centric products using MERN stack. Committed to achieving excellence in her work. Excited about kickstarting a career in the software industry.
+
 🔭 I’m currently working on ReactUI
 🌱 I’m currently learning MERN Stack, Data Structure and algorithms
 
