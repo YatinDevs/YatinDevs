@@ -9,8 +9,10 @@ A persistent learner and MERN Stack developer with proficiency in pixel-perfect 
 
 - 👯 I’m looking to collaborate on **Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/YatinDevs](https://github.com/YatinDevs)
-
+- 👨‍💻 All of my project :
+  
+ - CSS Vanilla Website with Float Only : https://yatindevs.github.io/MyTrip_CSS_Website/about.html
+   
 - 💬 Ask me about **react, node, mongodb,HtmL,CSS ,Springboot,CoreJava,J2EE.**
 
 - 📫 How to reach me **c.yatin727@gmail.com**
