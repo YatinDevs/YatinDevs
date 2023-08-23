@@ -11,7 +11,7 @@ A persistent learner and MERN Stack developer with proficiency in pixel-perfect 
 
 - 👨‍💻 All of my project :
   
- - CSS Vanilla Website with Float Only & Media Queries (Responsive) : https://yatindevs.github.io/MyTrip_CSS_Website/index.html
+  1. CSS Vanilla Website with Float Only & Media Queries (Responsive) : https://yatindevs.github.io/MyTrip_CSS_Website/index.html
    
 - 💬 Ask me about **react, node, mongodb,HtmL,CSS ,Springboot,CoreJava,J2EE.**
 
