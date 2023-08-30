@@ -12,7 +12,7 @@ A persistent learner and MERN Stack developer with proficiency in pixel-perfect 
 - 👨‍💻 All of my project :
 
 - Projects For Front End Profile :
-  1. CSS Vanilla Website with Float Only & Media Queries (Responsive) : [https://yatindevs.github.io/MyTrip_CSS_Website/index.html](https://mytripfloats.netlify.app)
+  1. CSS Vanilla Website with Float Only & Media Queries (Responsive) : https://mytripfloats.netlify.app/
   2. CSS Vanilla Website With FlexBox , Media Queries , Transitions (Desktop First Responsive Website) : https://foodworldrestaurant.netlify.app/
    
 - 💬 Ask me about **react, node, mongodb,HtmL,CSS ,Springboot,CoreJava,J2EE.**
