@@ -41,6 +41,6 @@ A persistent learner and MERN Stack developer with proficiency in pixel-perfect 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yatindevs&show_icons=true&locale=en&layout=compact" alt="yatindevs" /></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatindevs&show_icons=true&locale=en" alt="yatindevs" /></p> -->
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatindevs&show_icons=true&locale=en" alt="yatindevs" /></p> 
 
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yatindevs&" alt="yatindevs" /></p>
