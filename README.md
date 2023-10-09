@@ -3,11 +3,13 @@ A persistent learner and MERN Stack developer with proficiency in pixel-perfect 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatindevs&label=Profile%20views&color=0e75b6&style=flat" alt="yatindevs" /> </p>
 
-- 🔭 I’m currently working on **ReactUI**
+🔭 I am working on a react, redux and NextJs.
+🌱 I’m currently learning react Redux.😬
+👯 I’m looking to collaborate with others on Reactjs and Nodejs.
+🥅 2023 Goals: Learn and contribute to Open Source projects.
+🤔 I’m looking forward to learn data visualization.
+⚡ Fun fact: I love eSports and reading books.
 
-- 🌱 I’m currently learning **MERN Stack, Data Structure and algorithms**
-
-- 👯 I’m looking to collaborate on **Full Stack Developer**
 
 - 👨‍💻 All of my project :
 
