@@ -7,7 +7,7 @@ A persistent learner and MERN Stack developer with proficiency in pixel-perfect 
 </p>
 
 - 🔭 I am working on a react, redux and NextJs.
-- k
+
 - 🌱 I’m currently learning react Redux.😬
 - 👯 I’m looking to collaborate with others on Reactjs and Nodejs.
 - 🥅 2023 Goals: Learn and contribute to Open Source projects.
