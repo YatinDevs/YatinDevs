@@ -6,7 +6,7 @@ A persistent learner and MERN Stack developer with proficiency in pixel-perfect 
    <img src="https://komarev.com/ghpvc/?username=yatindevs&label=Profile%20views&color=0e75b6&style=flat" alt="yatindevs"/> 
 </p>
 
-- 🔭 I am working on a react, redux and NextJs.
+- 🔭 I am working on a react, redux and  NextJs.
 
 - 🌱 I’m currently learning react Redux.😬
 - 👯 I’m looking to collaborate with others on Reactjs and Nodejs.
