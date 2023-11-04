@@ -26,7 +26,7 @@ A persistent learner and MERN Stack developer with proficiency in pixel-perfect 
 - Projects of Front End Mentor :
 - 1. qr-code :  https://qr-code-frontendmentorchallenges.netlify.app/
 - 2. News-Homepage :  https://news-homepage-frontendmentor-tin.netlify.app/
-  3. 
+ 
 
 - 💬 Ask me about **react, node, mongodb,HtmL,CSS ,Springboot,CoreJava,J2EE.*
 
