@@ -15,7 +15,7 @@ A persistent learner and MERN Stack developer with proficiency in pixel-perfect 
 - ⚡ Fun fact: I love eSports and reading books.
 
 
-- 👨‍💻 All of my project :
+- 👨‍💻 All of my projects :
 
 - Projects For Front End Profile : 
 -  1. Html CSS JS Todo List (Responsive) : https://todo-list-tin.netlify.app
