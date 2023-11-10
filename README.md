@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Yatin Chaudhari</h2>
-A persistent learner and MERN Stack developer with proficiency in pixel-perfect design and implementing end-to-end functionality.A Curious Full Stack Web Developer trained in MERN stack and DSA.Passionate about building quality user-centric products using MERN stack. Committed to achieving excellence in her work. Excited about kickstarting a career in the software industry.
+<h2 align="center"> Hi 👋, I'm Yatin Chaudhari </h2>
+A persistent learner and always  Learning new technologies .A Curious Full Stack Web Developer trained in MERN stack and DSA. Passionate about building and developing MERN stack Websites. Committed to achieve excellence in  work. Excited about kickstarting a career in the software industry.
 
 
 <p align="left">
