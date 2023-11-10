@@ -11,7 +11,7 @@ A persistent learner and always  Learning new technologies .A Curious Full Stack
 - 🌱 I’m currently learning react Redux.😬
 - 👯 I’m looking to collaborate with others on Reactjs and Nodejs.
 - 🥅 2023 Goals: Learn and contribute to Open Source projects.
-- 🤔 I’m looking forward to learn data visualization.
+- 🤔 I’m looking forward to learn AWS 
 - ⚡ Fun fact: I love eSports and reading books.
 
 
