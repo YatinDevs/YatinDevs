@@ -1,26 +1,25 @@
 <h2 align="center"> Hi 👋, I'm Yatin Chaudhari </h2>
-A persistent learner and always  Learning new technologies .A Curious Full Stack Web Developer trained in MERN stack and DSA. Passionate about building and developing MERN stack Websites. Committed to achieve excellence in  work. Excited about kickstarting a career in the software industry.
+A persistent learner and always  Learning new technologies .A Curious Full Stack Web Developer trained in MERN stack and DSA. Passionate about building and developing MERN stack Websites.
 
 
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=yatindevs&label=Profile%20views&color=0e75b6&style=flat" alt="yatindevs"/> 
 </p>
 
-- 🔭 I am working on a react, redux and  NextJs.
-
-- 🌱 I’m currently learning react Redux.😬
-- 👯 I’m looking to collaborate with others on Reactjs and Nodejs.
-- 🥅 2023 Goals: Learn and contribute to Open Source projects.
-- 🤔 I’m looking forward to learn AWS 
-- ⚡ Fun fact: I love eSports and reading books.
-
+- 🔭 I am working on a reactJs, redux and  Nodejs.
+- 🌱 I’m currently learning NextJs and TypeScript.😬
+- 👯 I’m looking to collaborate with others on Reactjs and Nodejs (MERN Stack).
+- 🥅 2023 Goals: Learn and contribute to Open Source projects and Become Confident Full Stack Developer.
+- 🤔 I’m looking forward to learn AWS(S3, EC2, and Lambda) and React Native(for mobile development).
+- ⚡ Fun fact **I Enjoy Spending Time On My Desktop <3**
 
 - 👨‍💻 All of my projects :
 
-- Projects For Front End Profile : 
--  1. Html CSS JS Todo List (Responsive) : https://todo-list-tin.netlify.app
--  2. CSS Vanilla Website with Float Only & Media Queries (Responsive) : https://mytripfloats.netlify.app/
--  3. CSS Vanilla Website With FlexBox , Media Queries , Transitions (Desktop First Responsive Website) : https://foodworldrestaurant.netlify.app/
+- Projects For Front End Profile :
+-   MovixHD - Free tv shows streaming website : https://movix-hd-yatin-chaudharis-projects.vercel.app/
+-   Html CSS JS Todo List (Responsive) : https://todo-list-tin.netlify.app
+-   CSS Vanilla Website with Float Only & Media Queries (Responsive) : https://mytripfloats.netlify.app/
+-   CSS Vanilla Website With FlexBox , Media Queries , Transitions (Desktop First Responsive Website) : https://foodworldrestaurant.netlify.app/
    
 
 - Projects of Front End Mentor :
@@ -32,7 +31,6 @@ A persistent learner and always  Learning new technologies .A Curious Full Stack
 
 - 📫 How to reach me **c.yatin727@gmail.com**
 
-- ⚡ Fun fact **I Enjoy Spending Time On My Desktop <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
