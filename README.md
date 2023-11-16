@@ -27,7 +27,7 @@ A persistent learner and always  Learning new technologies .A Curious Full Stack
 -  News-Homepage :  https://news-homepage-frontendmentor-tin.netlify.app/
  
 
-- 💬 Ask me about **react, node, mongodb,HtmL,CSS ,Springboot,CoreJava,J2EE.*
+- 💬 Ask me about **react, node, mongodb,HtmL,CSS ,Springboot,CoreJava,J2EE.
 
 - 📫 How to reach me **c.yatin727@gmail.com**
 
