@@ -15,6 +15,7 @@ A persistent learner and always  Learning new technologies .A Curious Full Stack
 
 - 👨‍💻 All of my projects :
 
+
 - Projects For Front End Profile :
 -   MovixHD - Free tv shows streaming website : https://movix-hd-yatin-chaudharis-projects.vercel.app/
 -   Html CSS JS Todo List (Responsive) : https://todo-list-tin.netlify.app
@@ -26,6 +27,9 @@ A persistent learner and always  Learning new technologies .A Curious Full Stack
 -  qr-code :  https://qr-code-frontendmentorchallenges.netlify.app/
 -  News-Homepage :  https://news-homepage-frontendmentor-tin.netlify.app/
  
+ - Full Stack Project :
+  - Plastic E-waste Management System :  https://github.com/YatinDevs/Plastic_E-Waste_Management
+  - FrontEnd (Reactjs) - BackEnd (SpringBoot) - Database(MySQL)
 
 - 💬 Ask me about **react, node, mongodb,HtmL,CSS ,Springboot,CoreJava,J2EE.
 
