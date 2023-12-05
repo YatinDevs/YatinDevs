@@ -1,4 +1,4 @@
-<h2 align="center"> Hi 👋, I'm Yatin Chaudhari</h2> <a href="https://tin-portfolio.vercel.app/">My Portfolio <- Click here </a>
+<h2 align="center"> Hi 👋, I'm Yatin Chaudhari</h2> <a target="_blank" href="https://tin-portfolio.vercel.app/">My Portfolio <- Click here </a>
 A persistent learner and always  Learning new technologies .A Curious Full Stack Web Developer trained in MERN stack and DSA. Passionate about building and developing MERN stack Websites.
 
 
