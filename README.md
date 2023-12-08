@@ -49,4 +49,3 @@ A persistent learner and always  Learning new technologies .A Curious Full Stack
 
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yatindevs&" alt="yatindevs" /></p>
 
-![snake gif](https://github.com/YatinDevs/YatinDevs/blob/output/github-contribution-grid-snake.gif)
