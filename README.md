@@ -6,7 +6,7 @@ A persistent learner and always  Learning new technologies .A Curious Full Stack
    <img src="https://komarev.com/ghpvc/?username=yatindevs&label=Profile%20views&color=0e75b6&style=flat" alt="yatindevs"/> 
 </p>
 
-- 🔭 I am working on a reactJs, redux and  Nodejs.
+- 🔭 I am working on a reactJs, redux , Expressjs , Nodejs and MongoDB.
 - 🌱 I’m currently learning NextJs and TypeScript.😬
 - 👯 I’m looking to collaborate with others on Reactjs and Nodejs (MERN Stack).
 - 🥅 2023 Goals: Learn and contribute to Open Source projects and Become Confident Full Stack Developer.
