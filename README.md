@@ -18,7 +18,7 @@ A persistent learner and always  Learning new technologies .A Curious Full Stack
 
 
 - Projects For Front End Profile :
--   MovixHD - Free tv shows streaming website : https://movix-hd-yatin-chaudharis-projects.vercel.app/
+-  CrazyTV - Free tv shows streaming website : https://crazytv-hd.vercel.app/
 -   Html CSS JS Todo List (Responsive) : https://todo-list-tin.netlify.app
 -   CSS Vanilla Website with Float Only & Media Queries (Responsive) : https://mytripfloats.netlify.app/
 -   CSS Vanilla Website With FlexBox , Media Queries , Transitions (Desktop First Responsive Website) : https://foodworldrestaurant.netlify.app/
