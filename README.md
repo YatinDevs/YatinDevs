@@ -19,14 +19,15 @@ A persistent learner and always  Learning new technologies .A Curious Full Stack
 
 - Projects For Front End Profile :
 -  CrazyTV - Free tv shows streaming website : https://crazytv-hd.vercel.app/
--   Html CSS JS Todo List (Responsive) : https://todo-list-tin.netlify.app
--   CSS Vanilla Website with Float Only & Media Queries (Responsive) : https://mytripfloats.netlify.app/
--   CSS Vanilla Website With FlexBox , Media Queries , Transitions (Desktop First Responsive Website) : https://foodworldrestaurant.netlify.app/
-   
 
-- Projects of Front End Mentor :
--  qr-code :  https://qr-code-frontendmentorchallenges.netlify.app/
--  News-Homepage :  https://news-homepage-frontendmentor-tin.netlify.app/
+   
+- Mini Projects of Front End Mentor :
+- pokemon-app : https://pokemon-app-beta.vercel.app/
+- Html CSS JS Todo List (Responsive) : https://todo-list-tin.netlify.app
+- CSS Vanilla Website with Float Only & Media Queries (Responsive) : https://mytripfloats.netlify.app/
+- CSS Vanilla Website With FlexBox , Media Queries , Transitions (Desktop First Responsive Website) : https://foodworldrestaurant.netlify.app/
+- qr-code :  https://qr-code-frontendmentorchallenges.netlify.app/
+- News-Homepage :  https://news-homepage-frontendmentor-tin.netlify.app/
  
  - Full Stack Project :
   - Plastic E-waste Management System :  https://github.com/YatinDevs/Plastic_E-Waste_Management
