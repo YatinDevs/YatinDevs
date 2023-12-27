@@ -18,10 +18,11 @@ A persistent learner and always  Learning new technologies .A Curious Full Stack
 
 
 - Projects For Front End Profile :
--  CrazyTV - Free tv shows streaming website : https://crazytv-hd.vercel.app/
-
+- CrazyTV - Free tv shows streaming website : https://crazytv-hd.vercel.app/
+- PortFolio : https://tin-portfolio.vercel.app/
    
 - Mini Projects of Front End Mentor :
+- Retro-Store : https://retro-store.vercel.app/
 - pokemon-app : https://pokemon-app-beta.vercel.app/
 - Html CSS JS Todo List (Responsive) : https://todo-list-tin.netlify.app
 - CSS Vanilla Website with Float Only & Media Queries (Responsive) : https://mytripfloats.netlify.app/
