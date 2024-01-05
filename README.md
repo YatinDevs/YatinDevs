@@ -1,5 +1,7 @@
 <h2 align="center"> Hi 👋, I'm Yatin Chaudhari</h2> <a target="_blank" href="https://tin-portfolio.vercel.app/">My Portfolio <- Click here </a>
-A persistent learner and always  Learning new technologies .A Curious Full Stack Web Developer trained in MERN stack and DSA. Passionate about building and developing MERN stack Websites.
+A Curious Software Developer.
+A persistent learner and always Learning new technologies.
+The commitment to continuous learning and dedication is reflected in my daily GitHub commits. 
 
 
 <p align="left">
