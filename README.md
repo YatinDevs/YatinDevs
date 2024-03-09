@@ -34,15 +34,14 @@ Full Stack Project :
 - FrontEnd (Reactjs) - BackEnd (SpringBoot) - Database(MySQL)
 - Plastic E-waste Management System :  https://github.com/YatinDevs/Plastic_E-Waste_Management
  
-Mini Projects of Front End 
-      - Retro-Store : https://retro-store.vercel.app/
-      - pokemon-app : https://pokemon-app-beta.vercel.app/
-      - Html CSS JS Todo List (Responsive) : https://todo-list-tin.netlify.app
-      - CSS Vanilla Website with Float Only & Media Queries (Responsive) : https://mytripfloats.netlify.app/
-      - CSS Vanilla Website With FlexBox , Media Queries , Transitions (Desktop First Responsive Website) : 
-        https://foodworldrestaurant.netlify.app/
-      - qr-code :  https://qr-code-frontendmentorchallenges.netlify.app/
-      - News-Homepage :  https://news-homepage-frontendmentor-tin.netlify.app/
+Mini Projects of Front End :
+- Retro-Store : https://retro-store.vercel.app/
+- pokemon-app : https://pokemon-app-beta.vercel.app/
+- Html CSS JS Todo List (Responsive) : https://todo-list-tin.netlify.app
+- CSS Vanilla Website with Float Only & Media Queries (Responsive) : https://mytripfloats.netlify.app/
+- CSS Vanilla Website With FlexBox , Media Queries , Transitions (Desktop First Responsive Website) : https://foodworldrestaurant.netlify.app/
+- qr-code :  https://qr-code-frontendmentorchallenges.netlify.app/
+- News-Homepage :  https://news-homepage-frontendmentor-tin.netlify.app/
        
  
 - 💬 Ask me about **react, node, mongodb,HtmL,CSS ,Springboot,CoreJava,J2EE.
