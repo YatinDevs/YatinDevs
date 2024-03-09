@@ -19,27 +19,22 @@ The commitment to continuous learning and dedication is reflected in my daily Gi
 - 👨‍💻 All of my projects :
 
 Intern Work on :
-      
-      - Quizzahut Application :
-      - Loadmatch Lite-Application : https://loadmatch-lite-front-end.vercel.app/
+- Quizzahut Application :
+- Loadmatch Lite-Application : https://loadmatch-lite-front-end.vercel.app/
+             
+Projects For Front End Profile :
+- CrazyTV - Free tv shows streaming website : https://crazytv-hd.vercel.app/
+- PortFolio : https://tin-portfolio.vercel.app/
 
 OnGoing Projects :
-
-      - Ixigo Clone React Application - https://ixigo-clone-book.vercel.app/
-      - Music Player - Next-Application :  https://music-player-tin.vercel.app/
+- Ixigo Clone React Application - https://ixigo-clone-book.vercel.app/
+- Music Player - Next-Application :  https://music-player-tin.vercel.app/
       
 Full Stack Project :
-
-        - Plastic E-waste Management System :  https://github.com/YatinDevs/Plastic_E-Waste_Management
-        - FrontEnd (Reactjs) - BackEnd (SpringBoot) - Database(MySQL)
-
-Projects For Front End Profile :
-
-      - CrazyTV - Free tv shows streaming website : https://crazytv-hd.vercel.app/
-      - PortFolio : https://tin-portfolio.vercel.app/
-
+- FrontEnd (Reactjs) - BackEnd (SpringBoot) - Database(MySQL)
+- Plastic E-waste Management System :  https://github.com/YatinDevs/Plastic_E-Waste_Management
+ 
 Mini Projects of Front End 
-
       - Retro-Store : https://retro-store.vercel.app/
       - pokemon-app : https://pokemon-app-beta.vercel.app/
       - Html CSS JS Todo List (Responsive) : https://todo-list-tin.netlify.app
