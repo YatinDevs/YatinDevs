@@ -9,7 +9,7 @@ The commitment to continuous learning and dedication is reflected in my daily Gi
 </p>
 
 - 🔭 I am working on a reactJs, redux , Expressjs , Nodejs and MongoDB, PostgresSql, Docker.
-- 🌱 I’m currently learning NextJs and TypeScript.😬
+- 🌱 I’m currently learning NextJs and TypeScript.
 - 👯 I’m looking to collaborate with others on Reactjs and Nodejs (MERN Stack).
 - 🥅 2024 Goals: Learn and contribute to Open Source projects and Become Confident Full Stack Developer.
 - 🤔 I’m looking forward to learn AWS(S3, EC2, and Lambda) and React Native.
