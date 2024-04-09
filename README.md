@@ -25,7 +25,7 @@ Projects For Front End Profile :
 - CrazyTV - Free tv shows streaming website : https://crazytv-hd.vercel.app/
 - PortFolio : https://tin-portfolio.vercel.app/
 
-OnGoing Projects :
+On Going Projects :
 - Ixigo Clone React Application - https://ixigo-clone-book.vercel.app/
 - Music Player - Next-Application :  https://music-player-tin.vercel.app/
       
