@@ -18,7 +18,6 @@ The commitment to continuous learning and dedication is reflected in my daily Gi
 - 👨‍💻 All of my projects :
 
 Intern Work on :
-- Quizzahut Application :
 - Loadmatch Lite-Application : https://loadmatch-lite-front-end.vercel.app/
              
 Projects For Front End Profile :
