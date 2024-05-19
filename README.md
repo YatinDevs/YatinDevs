@@ -15,7 +15,7 @@ The commitment to continuous learning and dedication is reflected in my daily Gi
 
 - ⚡ Fun fact **I Enjoy Spending Time On My Desktop <3**
 
-- 👨‍💻 All of my projects :
+- 👨‍💻 All of my project's:
 
 Intern Work on :
 - Loadmatch Lite-Application : https://loadmatch-lite-front-end.vercel.app/
