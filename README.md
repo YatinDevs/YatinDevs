@@ -8,7 +8,7 @@ The commitments to continuous learnings and dedication is reflected in my daily 
    <img src="https://komarev.com/ghpvc/?username=yatindevs&label=Profile%20views&color=0e75b6&style=flat" alt="yatindevs"/> 
 </p>
 
-- 🔭 I am working on a reactJs, redux , Expressjs , Nodejs and MongoDB, PostgresSql, Docker.
+- 🔭 I am working on. reactJs, redux , Expressjs , Nodejs and MongoDB, PostgresSql, Docker.
 - 🌱 I’m currently learning NextJs and TypeScript.
 - 👯 I’m looking to collaborate with others on Reactjs and Nodejs (MERN Stack).
 - 2024 Goals: Learn and contribute to Open Source project and Become Confident Full Stack Developer.
