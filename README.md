@@ -43,7 +43,7 @@ Mini Projects of Front End :
 - News-Homepage :  https://news-homepage-frontendmentor-tin.netlify.app/
        
  
-- 💬 Ask me about *react, node, mongodb,HtmL,CSS ,Springboot,CoreJava,J2EE.
+- 💬 Ask me about *react, nodejs, mongodb,HtmL,CSS ,Springboot,CoreJava,J2EE.
 
 - 📫 How to reach me **c.yatin727@gmail.com**
 
