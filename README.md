@@ -1,6 +1,6 @@
 <h2 align="center"> Hi 👋, I'm Yatin Chaudhari</h2> <a target="_blank" href="https://tin-portfolio.vercel.app/">My Portfolio <- Click here </a>
 A Curious Software Developer.
-A persistent learner and always Learning new technologies
+A persistent learner and always Learning new technologies.
 The commitments to continuous learnings and dedication is reflected in my daily GitHub commits. 
 
 
