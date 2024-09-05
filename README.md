@@ -17,7 +17,7 @@ The commitments to continuous learnings and dedication is reflected in my daily 
 
 - 👨‍💻 All of my project's:
 
-Worked on :
+Worked on MVP (as sole software developer):
 - Loadmatch Lite-Application : https://www.loadmatch.app
 
              
