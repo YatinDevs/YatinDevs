@@ -38,7 +38,7 @@ Mini Projects of Front End :
 - pokemon-app : https://pokemon-app-beta.vercel.app/
 - Html CSS JS Todo List (Responsive) : https://todo-list-tin.netlify.app
 - CSS Vanilla Website with Float Only & Media Queries (Responsive) : https://mytripfloats.netlify.app/
-- CSS Vanilla Website With FlexBox , Media Queries , Transitions (Desktop First Responsive Website) : https://foodworldrestaurant.netlify.app/
+- CSS Vanilla Websites With FlexBox , Media Queries , Transitions (Desktop First Responsive Website) : https://foodworldrestaurant.netlify.app/
 - qr-code :  https://qr-code-frontendmentorchallenges.netlify.app/
 - News-Homepage :  https://news-homepage-frontendmentor-tin.netlify.app/
        
