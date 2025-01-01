@@ -21,7 +21,7 @@ Worked on MVP (as sole software developer):
 - Loadmatch Lite-Application : https://www.loadmatch.app
 
              
-Project For Front End Profile :
+Projects :
 - CrazyTV - Free tv shows streaming website : https://crazytv-hd.vercel.app/
 - PortFolio : https://tin-portfolio.vercel.app/
 
