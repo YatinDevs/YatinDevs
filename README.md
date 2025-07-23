@@ -29,7 +29,7 @@ On Going Project :
 - Ixigo Clone React Application - https://ixigo-clone-book.vercel.app/
 - Music Player - Next-Application :  https://music-player-tin.vercel.app/
       
-Full Stack Project :
+Full Stack Projects :
 - FrontEnd (Reactjs) - BackEnd (SpringBoot) - Database(MySQL)
 - Plastic E-waste Management System :  https://github.com/YatinDevs/Plastic_E-Waste_Management
  
